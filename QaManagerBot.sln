@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QaManagerBot", "QaManagerBot\QaManagerBot.csproj", "{86C098CA-ADDB-471A-A494-FF3A211504F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C098CA-ADDB-471A-A494-FF3A211504F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C098CA-ADDB-471A-A494-FF3A211504F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C098CA-ADDB-471A-A494-FF3A211504F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C098CA-ADDB-471A-A494-FF3A211504F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4753C21-FE91-480B-969B-27AF6950AFEF}
+	EndGlobalSection
+EndGlobal
